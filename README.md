@@ -27,3 +27,7 @@ in Inkscape and Fritzing.
 - Terminal Connector 2
 
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/terminal_block_2_for_github.png)
+
+- Microphone Sensor Module
+
+![Logo]()
