@@ -31,3 +31,7 @@ in Inkscape and Fritzing.
 - Microphone Sensor Module
 
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/microphone_module_4_pin_for_github.png)
+
+- TP4056 module small
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/)
