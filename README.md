@@ -24,3 +24,6 @@ in Inkscape and Fritzing.
 
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/TEC1-12706%20Thermo%20Electric%20Cooler_for_github.png)
 
+- Terminal Connector 2
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/terminal_block_2_for_github.png)
