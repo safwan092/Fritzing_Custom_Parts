@@ -2,7 +2,7 @@
 
 # Fritzing_Custom_Parts
 
-In this Repo you will find Fritzing parts that I made using photos edited 
+In this Repo you will find Fritzing parts that I use and some parts I made using photos edited 
 in Inkscape and Fritzing. 
 
 
