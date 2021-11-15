@@ -38,4 +38,4 @@ in Inkscape and Fritzing.
 
 - 9V Battery Panasonic Extra Heavy Duty
 
-![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/TP4056_module_small_plain_for_github.png)
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/9V_Battery_Panasonic_Extra_Heavy_Duty.png)
