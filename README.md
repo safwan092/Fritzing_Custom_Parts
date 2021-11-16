@@ -42,4 +42,4 @@ in Inkscape and Fritzing.
 
 - Joystick Black New
 
-![Logo]()
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/Joystick%20Black%20New.png)
