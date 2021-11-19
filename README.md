@@ -47,3 +47,7 @@ in Inkscape and Fritzing.
 - Joystick Black New
 
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/Joystick%20Black%20New.png)
+
+- LoRa32 TTGO T-Beam
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/LILYGO-LoRa-32-TTGO-T-Beam.png)
