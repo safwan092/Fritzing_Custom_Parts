@@ -62,3 +62,8 @@ in Inkscape and Fritzing.
 
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/LILYGO-LoRa-32-TTGO-T-Beam.png)
 ----------------------------------------------------------------
+
+- ESP 32 DEVKIT DOIT [Soled @ DAWAERSTORE.COM]
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/ESP32_DAWAERSTORE.png)
+----------------------------------------------------------------
