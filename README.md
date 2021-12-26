@@ -67,3 +67,9 @@ in Inkscape and Fritzing.
 
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/ESP32_DAWAERSTORE.png)
 ----------------------------------------------------------------
+
+- UK AC Plug
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/raw/main/Parts_Photos/UK_AC_Plug.png)
+----------------------------------------------------------------
+
