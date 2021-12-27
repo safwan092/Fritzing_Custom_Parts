@@ -73,3 +73,7 @@ in Inkscape and Fritzing.
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/raw/main/Parts_Photos/UK_AC_Plug.png)
 ----------------------------------------------------------------
 
+- Fast Connector White
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/fast_connector_white_small.png)
+----------------------------------------------------------------
