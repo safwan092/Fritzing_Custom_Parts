@@ -77,3 +77,8 @@ in Inkscape and Fritzing.
 
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/fast_connector_white_small.png)
 ----------------------------------------------------------------
+
+- Wemos D1 R2
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/fast_connector_white_small.png)
+----------------------------------------------------------------
