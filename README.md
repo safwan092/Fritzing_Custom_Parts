@@ -80,5 +80,5 @@ in Inkscape and Fritzing.
 
 - Wemos D1 R2
 
-![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/fast_connector_white_small.png)
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/WeMos D1 R2.png)
 ----------------------------------------------------------------
