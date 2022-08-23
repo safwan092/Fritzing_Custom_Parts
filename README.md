@@ -82,3 +82,8 @@ in Inkscape and Fritzing.
 
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/WeMos%20D1%20R2.png)
 ----------------------------------------------------------------
+
+- 18650x2 Battery with Wires 
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/18650x2.png)
+----------------------------------------------------------------
