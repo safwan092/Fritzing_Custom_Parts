@@ -87,3 +87,9 @@ in Inkscape and Fritzing.
 
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/18650x2.png)
 ----------------------------------------------------------------
+
+- AS608 Fingerprint Sensor
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/AS608%20-%20Finger%20Print%20Sensor.png)
+----------------------------------------------------------------
+
