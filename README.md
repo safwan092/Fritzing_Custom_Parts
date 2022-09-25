@@ -93,3 +93,7 @@ in Inkscape and Fritzing.
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/AS608%20-%20Finger%20Print%20Sensor.png)
 ----------------------------------------------------------------
 
+- Charger Booster Black Type C
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/charger_booster_black_type_c.png)
+----------------------------------------------------------------
