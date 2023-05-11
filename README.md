@@ -102,3 +102,8 @@ in Inkscape and Fritzing.
 
 ![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/Arduino_nano_Expantion_shield_Screw_2.png)
 ----------------------------------------------------------------
+
+- Arduino Nano Expantion Shield Screw
+
+![Logo](https://github.com/safwan092/Fritzing_Custom_Parts/blob/main/Parts_Photos/Arduino_nano_Expantion_shield_Screw_2.png)
+----------------------------------------------------------------
